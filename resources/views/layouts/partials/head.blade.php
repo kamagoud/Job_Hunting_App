@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/fontawesome/css/fontawesome.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/fontawesome/css/all.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/feather.css')}}">
+<link rel="stylesheet" href="{{ asset('assets/css/line-awesome.min.css')}}">
+<link rel="stylesheet" href="{{ asset('assets/css/line-awesome.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/material.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/line-awesome.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/material.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/daterangepicker/daterangepicker.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/morris/morris.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css')}}">
+<link rel="stylesheet" href="{{ asset('assets/css/dataTables.bootstrap4.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/select2.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/line-awesome.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/bootstrap-datetimepicker.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/daterangepicker/daterangepicker.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/fullcalendar.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/ckeditor.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/alertify/alertify.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/stickynote/sticky.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/scrollbar/scroll.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins//toastr/toatr.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/c3-chart/c3.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/select2/css/select2.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/lightbox/glightbox.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/icons/feather/feather.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/icons/flags/flags.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/icons/ionic/ionicons.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/material/materialdesignicons.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/icons/pe7/pe-icon-7.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/simpleline/simple-line-icons.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/icons/themify/themify.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/icons/typicons/typicons.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/icons/weather/weathericons.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/dragula/css/dragula.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/summernote/summernote-bs4.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/ion-rangeslider/css/ion.rangeSlider.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/bootstrap-tagsinput/bootstrap-tagsinput.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
